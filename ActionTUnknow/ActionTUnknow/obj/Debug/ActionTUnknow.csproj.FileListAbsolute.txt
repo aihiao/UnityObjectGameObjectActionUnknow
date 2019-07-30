@@ -1,0 +1,6 @@
+D:\GitHub\UnityObjectGameObjectActionUnknow\ActionTUnknow\ActionTUnknow\bin\Debug\ActionTUnknow.exe.config
+D:\GitHub\UnityObjectGameObjectActionUnknow\ActionTUnknow\ActionTUnknow\bin\Debug\ActionTUnknow.exe
+D:\GitHub\UnityObjectGameObjectActionUnknow\ActionTUnknow\ActionTUnknow\bin\Debug\ActionTUnknow.pdb
+D:\GitHub\UnityObjectGameObjectActionUnknow\ActionTUnknow\ActionTUnknow\obj\Debug\ActionTUnknow.csprojResolveAssemblyReference.cache
+D:\GitHub\UnityObjectGameObjectActionUnknow\ActionTUnknow\ActionTUnknow\obj\Debug\ActionTUnknow.exe
+D:\GitHub\UnityObjectGameObjectActionUnknow\ActionTUnknow\ActionTUnknow\obj\Debug\ActionTUnknow.pdb
